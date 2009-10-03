@@ -42,6 +42,8 @@ Note that having a ~/.emacs file might override the starter kit
 loading, so if you've having trouble loading it, make sure that file
 is not present.
 
+You can get around this by creating a {username}.el file in the ~/.emacs.d this will act like an .emacs file.
+
 ## Structure
 
 The init.el file is where everything begins. It's the first file to
